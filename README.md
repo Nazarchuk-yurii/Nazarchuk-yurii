@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **html, css, javascript**
 
-- 💬 Ask me about **testing**
+- 💬 Ask me about **Testing**
 
 - 📫 How to reach me **yurii.n@jsdaddy.io**
 
