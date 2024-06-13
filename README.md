@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Advenium](https://app.advenium.com), [IMAsys](https://www.imasys.com/)
 
-- 🌱 I’m currently learning **javascript and cypress** to became General QA.
+- 🌱 I’m currently learning **JavaScript and Cypress**.
 
 - 💬 Ask me about **Testing**
 
