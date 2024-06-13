@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Advenium](https://app.advenium.com)
 
-- 🌱 I’m currently learning **html, css, javascript** to became Front-End developer
+- 🌱 I’m currently learning **javascript and cypress** to became General QA.
 
 - 💬 Ask me about **Testing**
 
